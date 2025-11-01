@@ -1,2 +1,2 @@
-Terraform remote files first
+Terraform remote-files first
 Then Terraform infrastruture-files
